@@ -61,5 +61,5 @@ Node, Express 4.x, Angular, Mongoose, MongoDB, Robomongo MongoDB client, REST AP
 $http service to make AJAX requests in AngularJS.
 
 
-Michael Cullen
-2014
+Simran Grewal
+2017
